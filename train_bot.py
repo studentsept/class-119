@@ -8,7 +8,7 @@ import json
 import pickle
 import numpy as np
 
-
+# download nltk punkt
 words=[]
 classes = []
 word_tags_list = []
